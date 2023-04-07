@@ -1,0 +1,15 @@
+{
+  "name": "Jasmine",
+  "gender": "Female",
+  "age": 34,
+  "reason": "The convenience of being able to access my bank account at any time of the day and night",
+  "pains": [
+    "Being able to securely access bank information without having to wait in line",
+    "The need for an easy way to transfer money between accounts without fees",
+    "Having an app that allows customer support to be reached quickly and easily",
+    "The need for an easy way to track spending and upcoming bills"
+  ],
+  "bio": "Jasmine is a 34-year-old working professional who values convenience and security. She likes to stay on top of her finances and is always looking for ways to make her life easier.",
+  "job": "Insurance Agent",
+  "profileImage": "/dummy/profile.png"
+}
